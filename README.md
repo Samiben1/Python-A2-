@@ -23,3 +23,5 @@ step 2: Run the sql_food.py: It queries data into the inspection and violation t
 step 3:	Run the excel_food.py: It creates a new excel file called "ViolationsTypes" amd stores violations code, description and count.
 	 
 step 4: Run Numpy_food.py: It generates graphs based on the data provided in the database plotting violations overtime.
+
+# Note: if the excel file "violationstypes" doesnt display in the first try, re run the excel_food.py and open again 
